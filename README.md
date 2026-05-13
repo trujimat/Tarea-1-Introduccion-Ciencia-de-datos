@@ -18,6 +18,7 @@ Ejecute el siguiente comando desde el directorio raíz del repositorio:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Ejecución del notebook
 
